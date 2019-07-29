@@ -29,3 +29,10 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+
+# Enable the Jekyll SEO tag plugin
+plugins:
+  - jekyll-seo-tag
+
+title: Sungil Lee's Portfolio
+description: Through my 7+ years of experience working with audio-related softwares, learning new technologies became one of my specialties. By learning I was able to solve problems efficiently and produce outcomes successfully. I have a focus on writing well-designed, testable and efficient code using current best practices in web development.
